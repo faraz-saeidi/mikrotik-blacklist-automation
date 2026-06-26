@@ -1,0 +1,13 @@
+# Python virtual environment and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local runtime generated files
+*.rsc
+blacklist.rsc
+
+# IDE configs
+.idea/
+.vscode/
